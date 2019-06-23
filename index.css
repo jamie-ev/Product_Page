@@ -2,6 +2,7 @@ body {
 	margin: 0;
 }
 
+/* Succulent logo at the top */
 #logo {
   display: flex;
   justify-content: flex-start;
@@ -76,6 +77,7 @@ h2 {
   line-height: 60px;
 }
 
+/* Email submission form */
 #form {
   display: flex;
   flex-direction: column;
@@ -84,6 +86,7 @@ h2 {
   margin-bottom: 60px;
 }
 
+/* email input */
 #email {
   height: 30px;
   width: 300px;
@@ -91,6 +94,7 @@ h2 {
   margin-bottom: 30px;
 }
 
+/* email submit button */
 #submit {
   height: 30px;
   width: 150px;
@@ -143,6 +147,7 @@ button:hover {
   padding: 15px;
 }
 
+/* features icons */
 .features img {
   max-width: 130px;
   max-height: 130px;
@@ -182,9 +187,11 @@ iframe {
   font-family: Verdana, sans-serif;
   color: grey;
 }
+
 .product button {  
   margin-bottom: 25px;
 }
+
 #footer {
   background: #a3bba3;
   height: 40px;
@@ -198,6 +205,7 @@ iframe {
   line-height: 8px;
 }
 
+/* Responsive sizing for smaller computers */
 @media (max-width: 992px) {
   #form {
     margin-bottom: 0;
@@ -245,6 +253,7 @@ iframe {
   }
 }
 
+/* responsive sizing for tablets */
 @media (max-width: 650px) {
   iframe {
     width: 380px;
@@ -255,6 +264,7 @@ iframe {
   }
 }
 
+/* responsive sizing for smartphones */
 @media (max-width: 480px) {
   #header-text {
     font-size: 22px;
