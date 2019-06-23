@@ -101,15 +101,15 @@ h2 {
   font-size: 14px;
   font-weight: bold;
   border-radius: 5px;
-  background: #e9ab96;
-  color: #3d8f3d;
+  background: #e49a81;
+  color: #1f471f;
   margin: auto;
 }
 
 input.highlight:hover {
-  background-color: #e0896c !important;
+  background-color: #db7857 !important;
   cursor: pointer;
-  color: #1f471f !important;
+  color: #fff !important;
 }
 
 button {
@@ -118,15 +118,15 @@ button {
   font-size: 14px;
   font-weight: bold;
   border-radius: 5px;
-  background: #e9ab96;
-  color: #3d8f3d;
+  background: #e49a81;
+  color: #1f471f;
   margin: auto;
 }
 
 button:hover {
-  background-color: #e0896c;
+  background-color: #db7857;
   cursor: pointer;
-  color: #1f471f;
+  color: #fff;
 }
 
 #features {
