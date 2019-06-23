@@ -109,6 +109,7 @@ h2 {
 input.highlight:hover {
   background-color: #e0896c !important;
   cursor: pointer;
+  color: #1f471f !important;
 }
 
 button {
@@ -125,6 +126,7 @@ button {
 button:hover {
   background-color: #e0896c;
   cursor: pointer;
+  color: #1f471f;
 }
 
 #features {
@@ -139,11 +141,11 @@ button:hover {
   max-width: 160px;
   align-items: center;
   text-align: center;
-  background: rgba(201,232,201,0.8);
+  background: rgba(201,232,201,0.7);
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
-  color: grey;
+  color: #555;
   padding: 15px;
 }
 
@@ -185,7 +187,7 @@ iframe {
 .product p {
   padding: 0 20px 0 20px;
   font-family: Verdana, sans-serif;
-  color: grey;
+  color: #666;
 }
 
 .product button {  
